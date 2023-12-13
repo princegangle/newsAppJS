@@ -117,7 +117,7 @@ row-gap: 15px;
 .card:hover{
     box-shadow: 1px 1px 10px rgb(37, 49, 222);
     background-color: rgb(255, 255, 255);
-    transform: translateY(-2px) rotate(0.5deg)
+    transform: translateY(-2px) 
 }
 .cardhedar img{
     width: 100%;
